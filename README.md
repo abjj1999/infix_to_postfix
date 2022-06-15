@@ -2,7 +2,7 @@
 
 ## To Run app use:
 
-g++ \*.cpp ; ./a.out
+    g++ \*.cpp ; ./a.out
 
 ## DESC
 
